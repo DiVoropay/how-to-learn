@@ -311,7 +311,7 @@ color: white;
   list-style: none;
   padding-left: 0;
 }
-
+/* ниже создан элемент блока "ссылка" для изменения цвета и декорации */
 .footer__column-link {
   display: flex;
   color: #2f80ed;
